@@ -1,0 +1,12 @@
+Base path: 'C:/Program Files/Unity/Editor/Data', plugins path 'C:/Program Files/Unity/Editor/Data/PlaybackEngines'
+Cmd: initializeCompiler
+Cmd: compileComputeKernel
+  api=18 insize=2059 outsize=5551 ok=1
+Cmd: compileComputeKernel
+  api=9 insize=4855 outsize=17800 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18299 outsize=33261 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=18299 outsize=57023 ok=1
+Cmd: compileComputeKernel
+  api=18 insize=1454 outsize=5255 ok=1
